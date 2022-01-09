@@ -5,7 +5,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 
 - Insta information gathering
 - Insta brute force attack
-- Insta account banner
+- Insta auto repoter
 - Update script
 - Remove script
 

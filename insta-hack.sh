@@ -69,10 +69,10 @@ echo " "
         
         exit
     elif [ $ch -eq 3 ];then
-        git clone https://github.com/mrwn007/007spam-BOT.git
-        cd 007spam-BOT
-        pip install requests
-        python3 bot.py
+        git clone https://github.com/Crevils/InstaReport
+        cd InstaReport
+        pip install -r requirements.txt
+        python ReportBot.py
 
         exit
     elif [ $ch -eq 4 ];then
